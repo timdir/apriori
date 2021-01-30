@@ -11,7 +11,7 @@ weight such as eating high caloric food or driving to work.
 
 # Some Terminology
 
-itemset: a set of 1 or more items
-market basket: (another word for itemset)
-singleton: itemset with 1 item
-doubleton: itemset with 2 items
+itemset: a set of 1 or more items  
+market basket: (another word for itemset)  
+singleton: itemset with 1 item  
+doubleton: itemset with 2 items  
