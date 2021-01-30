@@ -1,6 +1,6 @@
 # Analysis of Obesity Levels Using the Apriori Algorithm
 
-Author: timdir
+Author: Tim
 
 Date: Dec 9 2020
 
